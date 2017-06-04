@@ -17,6 +17,7 @@ size: 20px;
     font-size: 17px;
 	border-style: solid;
 	padding: 4px;
+	border-color: white;
 }
 .topnav a:hover {
     background-color: black;
