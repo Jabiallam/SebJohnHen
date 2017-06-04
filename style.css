@@ -7,7 +7,7 @@ style.css
 .topnav a {
     float: left;
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -24,4 +24,16 @@ style.css
 	.div1 {
 		padding-bottom: 30px;
 		padding-top: 30px; 
-		background-color: black;	}
+		background-color: black;
+	}
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+
+input[type="submit"] {
+      background: red;
+      color: white;
+    }
+
