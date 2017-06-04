@@ -36,4 +36,5 @@ input[type="submit"] {
       background: red;
       color: white;
     }
-
+#logo {
+	size: 20px}
