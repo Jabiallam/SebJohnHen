@@ -1,4 +1,9 @@
 style.css
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 .topnav {
     background-color: black;
     overflow: hidden;
@@ -26,13 +31,13 @@ style.css
 		padding-top: 30px; 
 		background-color: black;
 	}
-#email {
+input {
       border: 0;
       padding: 10px;
       font-size: 18px;
     }
 
-#submit {
+input[type="submit"] {
       background: red;
       color: white;
     }
