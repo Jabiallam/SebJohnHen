@@ -1,4 +1,6 @@
 style.css
+#home {
+	width: 80%}
 .topnav {
     background-color: black;
     overflow: hidden;
@@ -23,6 +25,7 @@ style.css
     color: white;
 }
 #JHS { 
+position: center; 
 height: 100%;
 }
 	
