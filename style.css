@@ -1,10 +1,4 @@
 style.css
-#Home{
-	width: 80%;
-}
-#JHS { 
-height: 100%;
-}
 .topnav {
     background-color: black;
     overflow: hidden;
@@ -27,6 +21,9 @@ height: 100%;
 .topnav a.active {
     background-color: black;
     color: white;
+}
+#JHS { 
+height: 100%;
 }
 	
 .div2 {
