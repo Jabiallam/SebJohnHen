@@ -1,1 +1,8 @@
 style.css
+* {background-color: green}
+	.div1 {
+		padding-bottom: 30px;
+		padding-top: 30px; 
+		background-color: black;
+	}
+h2 { color :white; }
