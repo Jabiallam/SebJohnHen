@@ -42,3 +42,6 @@ input[type="submit"] {
       background: red;
       color: white;
     }
+#BgPic {
+	width: 100%;
+}
