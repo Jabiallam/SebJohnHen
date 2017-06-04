@@ -26,13 +26,13 @@ style.css
 		padding-top: 30px; 
 		background-color: black;
 	}
-input {
+#email {
       border: 0;
       padding: 10px;
       font-size: 18px;
     }
 
-input[type="submit"] {
+#submit {
       background: red;
       color: white;
     }
