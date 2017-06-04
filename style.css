@@ -8,9 +8,10 @@ height: 20px;
 }
 
 .topnav a {
+    height:20px;
     float: left;
     display: block;
-    color: black;
+    color: silver;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
