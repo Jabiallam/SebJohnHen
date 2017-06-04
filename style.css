@@ -3,7 +3,7 @@ style.css
 	width: 80%;
 }
 #JHS { 
-height: 5px;
+height: 100%;
 }
 .topnav {
     background-color: black;
@@ -12,7 +12,7 @@ height: 5px;
 
 .topnav a {
     height:20px;
-    float: right;
+    float: left;
     display: block;
     color: white;
     text-align: center;
