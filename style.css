@@ -1,6 +1,6 @@
 style.css
 #logo { 
-size: 20px
+size: 20px;
 }
 .topnav {
     background-color: black;
@@ -29,6 +29,9 @@ size: 20px
 		padding-top: 30px; 
 		background-color: black;
 	}
+.div2 {
+	width: 100%;
+}
 input {
       border: 0;
       padding: 10px;
