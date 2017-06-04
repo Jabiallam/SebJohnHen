@@ -1,8 +1,6 @@
 style.css
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+#logo { 
+size: 20px
 }
 .topnav {
     background-color: black;
@@ -41,5 +39,3 @@ input[type="submit"] {
       background: red;
       color: white;
     }
-#logo {
-	size: 20px}
