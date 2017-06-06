@@ -16,12 +16,9 @@ body {
   margin: 0 auto 0 auto;
  text-align:left;}
 
-#uplogo {
+a #uplogo img {
 	position: relative;
-	left: -120px;
-	top: -50px;
 	height: 10px;
-	width: 10px;
 }
 
 .container
